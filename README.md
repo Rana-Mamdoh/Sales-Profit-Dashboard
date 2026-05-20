@@ -6,6 +6,7 @@ KPIs
 - Total Sales: $1,928,888
 - Total Profit: $247,961
 - Customer Count: 2,319 (2021–2024)
+  
  Features
 - Filter by Category, Year, and Month
 - Profit by Year breakdown (Furniture, Office Supplies, Technology)
@@ -14,6 +15,7 @@ KPIs
 - Sales by Month trend
 - Customer Count by Year (donut chart)
 - Geographic Sales by State (USA map)
+  
   Insights
 - Phones & Chairs are the top revenue categories ($279K and $277K)
 - Technology shows the strongest profit growth year over year
