@@ -16,7 +16,7 @@ KPIs
 - Customer Count by Year (donut chart)
 - Geographic Sales by State (USA map)
   
-  Insights
+ Insights
 - Phones & Chairs are the top revenue categories ($279K and $277K)
 - Technology shows the strongest profit growth year over year
 - Q4 (Nov–Dec) peaks in monthly sales at $234K and $241K
