@@ -1,7 +1,6 @@
 # Sales-Profit-Dashboard
 Interactive Excel dashboard for Sales & Profit analytics across categories, states, and time.
 <img width="1600" height="873" alt="dashboard" src="https://github.com/user-attachments/assets/d413f11b-1023-4ad9-89f7-3a157ddcac12" />
-
 KPIs
 - Total Sales: $1,928,888
 - Total Profit: $247,961
